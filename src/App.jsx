@@ -1,5 +1,6 @@
 import Banner from "./component/Banner"
 import NavBar from "./component/NavBar"
+import SectionBlue from "./component/SectionBlue"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <NavBar></NavBar>
       <Banner></Banner>
+      <SectionBlue></SectionBlue>
     
     </>
   )
