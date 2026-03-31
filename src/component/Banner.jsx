@@ -28,7 +28,7 @@ const Banner = () => {
           {/* <button className="bg-[#7c3aed] text-white px-8 py-3 rounded-full font-bold text-[15px]">
             Explore Products
           </button> */}
-          <button className="bg-[#7c3aed] text-white px-8 py-3 rounded-full font-bold text-[15px] hover:-translate-y-1 transition-all duration-300 active:scale-95">
+          <button className="bg-gradient-to-r from-[#7c3aed] to-[#9e2db4] text-white px-8 py-3 rounded-full font-bold text-[15px] hover:-translate-y-1 transition-all duration-300 active:scale-95">
             Explore Products
           </button>
           

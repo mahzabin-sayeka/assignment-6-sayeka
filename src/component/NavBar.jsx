@@ -35,7 +35,7 @@ const NavBar = ({ cartCount }) => {
 
           <button className="text-gray-700 font-bold">Login</button>
           
-          <button className="bg-[#7c3aed] text-white px-6 py-2 rounded-full font-bold">
+          <button className="bg-gradient-to-r from-[#7c3aed] to-[#9e2db4] text-white px-6 py-2 rounded-full font-bold">
             Get Started
           </button>
         </div>
