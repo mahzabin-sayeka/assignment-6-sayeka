@@ -24,6 +24,7 @@ import NavBar from "./component/NavBar";
 import SectionBlue from "./component/SectionBlue";
 import ProductCard from './component/ProductCard';
 import CartItem from './component/CartItem';
+import StepsSection from './component/StepsSection';
 
 function App() {
   const [activeTab, setActiveTab] = useState('products');
@@ -60,6 +61,7 @@ function App() {
 
       <Banner></Banner>
       <SectionBlue></SectionBlue>
+      
 
       {/* Product r Cart Secion */}
       <div className="max-w-7xl mx-auto px-6 py-16 prduct-sec-warp">
@@ -126,7 +128,11 @@ function App() {
           </div>
         )}
       </div>
+
+      
+      <StepsSection></StepsSection>
     </>
+    
   );
 }
 
