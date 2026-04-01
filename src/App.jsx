@@ -25,6 +25,7 @@ import SectionBlue from "./component/SectionBlue";
 import ProductCard from './component/ProductCard';
 import CartItem from './component/CartItem';
 import StepsSection from './component/StepsSection';
+import PricingSection from './component/PricingSection';
 
 function App() {
   const [activeTab, setActiveTab] = useState('products');
@@ -129,8 +130,9 @@ function App() {
         )}
       </div>
 
-      
+
       <StepsSection></StepsSection>
+      <PricingSection></PricingSection>
     </>
     
   );
