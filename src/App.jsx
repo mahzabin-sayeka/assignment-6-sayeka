@@ -27,6 +27,7 @@ import CartItem from './component/CartItem';
 import StepsSection from './component/StepsSection';
 import PricingSection from './component/PricingSection';
 import WorkflowSection from './component/WorkflowSection';
+import Footer from './component/Footer';
 
 function App() {
   const [activeTab, setActiveTab] = useState('products');
@@ -135,6 +136,7 @@ function App() {
       <StepsSection></StepsSection>
       <PricingSection></PricingSection>
       <WorkflowSection/>
+      <Footer></Footer>
     </>
     
   );
