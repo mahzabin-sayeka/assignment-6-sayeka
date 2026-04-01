@@ -1,16 +1,33 @@
-# React + Vite
+Project Name: Digitools Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A little Description
 
-Currently, two official plugins are available:
+This is my new project and its name is Digitools Studio. I make this website for people who need digital tools. Here you can see many premium products with different price  and you can also add them to your cart. you can also see the selected cart in cart list. here you can remove if something not need. here also you can see the total price of selected products. I try to make the design very simple and clean so everyone can use it easily. It is like a small shop for digital items where you can see pricing and how to start work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Technology that i use
 
-## Expanding the ESLint configuration
+I use many modern things to build this project. First, I use React for making the website work fast. For design, I use Tailwind CSS and DaisyUI because they help me make beautiful buttons and cards very quickly. I also use Vite for my development. For the icons and images, I use Font Awesome and some local images from my assets folder.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+3 Features about my project
+
+First feature is the Product and Cart system. You can click on products and they go to your cart, and you can see total price there. Second feature is the Steps section. It show users how to create account and start work with 3 easy steps. Third feature is the Pricing section. It has 3 different plans like Starter, Pro, and Enterprise. The Pro plan looks different and highlight so people can understand it is popular. All these things work very good on mobile also.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
